@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning AI
-- 💬 Ask me anything about Flutter 
+- 🌱 I’m currently learning AI models
+- 💬 Ask me anything about Flutter
+- 🤔 I’m looking for help with how to work more Professional in Flutter.
 - 📫 How to reach me: dev.abdurehman@gmail.com
-- 😄 My website: https://thetechbrothers.net
   
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-623a36269)
