@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning AI models
+- 🌱 I’m currently learning AI models training
 - 💬 Ask me anything about Flutter
-- 🤔 I’m looking for help with how to work more Professional in Flutter.
+- 🤔 I’m looking for help with how to work more professionally in Flutter.
 - 📫 How to reach me: dev.abdurehman@gmail.com
   
 ### Connect with me:
