@@ -1,10 +1,13 @@
  <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning AI models training
-- 💬 Ask me anything about Flutter
-- 🤔 I’m looking for help with how to work more professionally in Flutter.
-- 📫 How to reach me: dev.abdurehman@gmail.com
+* 🔭 I’m a **Full-Stack Software Developer with 3+ years of experience**, working with **Flutter, React Native, and modern backend technologies**.
+* 💻 I build **scalable mobile applications, web solutions, APIs, and backend systems** with a strong focus on performance and maintainability.
+* 🌱 I’m currently expanding my expertise in **AI, LLMs, and AI model training**.
+* 💬 Ask me about **Full-Stack Development, Flutter, React Native, Firebase, REST APIs, backend development, databases, and software architecture**.
+* 🚀 I’m focused on writing **clean, scalable, production-ready code** and following professional software engineering practices.
+* 🤝 I’m open to **freelance projects, collaborations, and challenging software development opportunities**.
+* 📫 Reach me at: **[dev.abdurehman@gmail.com](mailto:dev.abdurehman@gmail.com)**
+
   
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-623a36269)
